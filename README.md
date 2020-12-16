@@ -1,4 +1,9 @@
 # CTL-FinalProject
+Body{
+font-family: Helvetica
+font-size: 12 px
+}
+
 
 <b>Intro/Overview:</b>
 As the final class project for Coding the Law at Suffolk University Law School, we were tasked with creating a technical solution for a real-world legal problem. After thinking through the logistics and obvious hurdles of finding an external partner in the middle of a pandemic, my teammates, Joelle and Mike, and I chose to work with the Document Assembly Line Project and Suffolk LitLab. We produced three automated interviews for Mass Legal Services, the Boston Housing Authority and a General Release Form. 
