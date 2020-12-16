@@ -1,5 +1,5 @@
 # CTL-FinalProject
-<b>The Author</b><br>
+<b>The Author:</b><br>
 Kayla Gallagher, <a href="mailto:kgallagher6@su.suffolk.edu">kgallagher6@su.suffolk.edu</a>
 
 <b>The Big Picture:</b><br>
