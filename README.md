@@ -62,7 +62,7 @@ It is a possibility to remove these lines in the future for the form to appear m
 <b>Test User Charlie - a 21 year old female being represented by an individual in a dispute against an organization. filling out the form on a computer with a witness present, emailing herself a copy and forwarding it to counsel.<br></b>
 <i>User Charlie was able to complete the form. She was confused by the ability to add multiple witnesses at the question prompt, but in the directions it stated that you only needed "a" witness. She was not sure why it was relevant to ask whether she was the plaintiff or the respondent in the case and we took that feedback into account that it is not essential to this form. However, the basic questions focus on court forms and require that you fill out either that you are the plaintiff or who the plaintiffs are and it fills in the appropriate other_parties variable. If there was a way to change this and make it more condusive to the form it is not something that we have worked out at this time, but we continue to look for solutions. </i>
 
-<b>Test User Delta - a 92 house mouse being represented by a firm of triplet cartoon ducks in a dispute against an anthropomorphic dog, filling out the form on a mobile device with his witness, a hot-headed duck, printing out and delivering to counsel. <br></b>
+<b>Test User Delta - a 92 year old house mouse being represented by a firm of triplet cartoon ducks in a dispute against an anthropomorphic dog, filling out the form on a mobile device with his witness, a hot-headed duck, printing out and delivering to counsel. <br></b>
 <i>Test User Delta, an anomoly, didn't have any issues filling out the form. He is incredibly optimistic, and suprisingly tech savy! He feels like all the issues can be resolved with a couple days of hardwork and has the utmost faith that our project could be used by real clients in need in the future.</i>
 
 <b>The Future</b><br>
@@ -83,7 +83,7 @@ Since we created interviews for three forms, we divided the work so each one wou
 <b>FWIW, Thank You!</b><br>
 Special Thanks to my partners Joelle Ataya and Mike Carroll for endless feedback and constant user-testing. The guidance of Suffolk LitLab, Volunteers of the Document Assembly Line Project, our classmates in the Coding the Law Class, and Professor David Colrusso for their expertise and assistance through countless questions, testing iterations, demos and feedback.
 
-<h2><a href="VIDEOLINK">TL;DR, Watch the Video Instead</a>
+<h2><a href="https://www.youtube.com/watch?v=HVaM_goHiAY">TL;DR, Watch the Video Instead</a>
 
 
 </ CodingTheLawFinal></h2>
