@@ -1,0 +1,139 @@
+Hi I'm Joelle Ataya, I'm Kayla Gallagher and I'm Mike Carroll and together we 
+
+worked with the Document Assembly Line Project to create three automated 
+
+interviews that complete client release forms. 
+
+We were inspired to work on this project because of the clear accessibility 
+
+divide between client and practioner in the legal world. These forms in their 
+
+original state were both hard to locate and difficult to access, especially for 
+
+those who are unfamiliar or identify as less than tech savvy.
+
+While there are still other options to complete these forms, we believe that 
+
+our solution is the most straight forward and contained into one application. 
+
+The Users and Stakeholders involved are most importantly the clients, but 
+
+include attorneys and organizations such as, Mass Legal Services and the Boston
+
+Housing Authority. Our product is designed to fit all users from the 
+
+20-something tech genius, to the middle-aged lawyer, and the 60 year old client.
+
+We consulted with the Boston Housing Authority to discuss the common questions 
+
+that someone who would be filling out an application such as this one may run 
+
+into. We also discussed and researched the common aspects of a release form 
+
+with several subject matter experts in order to author the General Release 
+
+Form. 
+
+Upon our research, we discussed that there were several other ways that this 
+
+could be completed whether it is in the original format of printing, signing 
+
+and returning, simply not filling out the form and providing no access to 
+
+private information or for firms to use a fillable pdf and e-sign platform, 
+
+however, we realized that there is both demand and advantage to having the 
+
+entire from, signature included completed in one application. 
+
+Working in a group has great advantages that are especially clear when 
+
+user-testing, there are so many pieces of information that can be made better 
+
+with different perspective and fresh eyes. We consistently participated in 
+
+interactive user-testing in weekly video meetings, and provided both written 
+
+and verbal feedback to one another. We created unique personas to test with 
+
+that cover different use-cases, and utilized the people in our surroundings (
+
+parents, roommates, dogs, etc.) to test the product as well. In addition to 
+
+user-testing, also took into account the feedback we received from classmates,
+
+coding experts, legal experts, and the feedback of our external partner when we 
+
+demo-ed our products for them. 
+
+Our initial proposal called for two interviews from two separate forms. At the 
+
+request of our external partner, we created a general release form and 
+
+complimentary interview for the purpose of this project. Though we began with 
+
+two interviews and forms, our final project yields three interviews that 
+
+complete three different release forms. 
+
+Our interviews rely on document automation through docassemble to create a 
+
+process for the user from start to finish. The product is incredibly client 
+
+facing, its impact and efficiencies are entirely based on the ambition and 
+
+intention of the practioner. For example, an attorney could utilize this form 
+
+similarly, to the way they currently implement them -- one at a time. 
+
+Alternatively, a practioner could decide that they would like every client to 
+
+include a copy of this form in their client file, if this was the case, 
+
+theoretically they could contact their entire client base to complete the 
+
+interview without disrupting their workday it could reach 10, 40, or 200 
+
+clients depending on their firm/agency capacity. 
+
+Our product isn't perfect, but it does work! Most of the bugs that we are 
+
+currently working through have anywhere from a minute to a few hours’ time to 
+
+work through. They may need fresh eyes, or expert help, but they don't take 
+
+away from the fact that we have created a solid minimum viable product that 
+
+only needs a few tweaks and possibly a design touch before being tested for 
+
+real world use!
+
+All of our current user concerns can be found through documentation in our 
+
+biographies with each of our pages reflecting the project we took point on! We 
+
+discussed certain edge cases and users that may not be addressed through the 
+
+implementation of our product such as the person with no Wi-Fi or no computer, 
+
+that could be worked around through free-WIFI or access to computers in a 
+
+public library or other public facility. We also discussed the user that 
+
+doesn't speak English, and translation to other languages such as Spanish is a 
+
+feature that we hope to implement in the future. 
+
+The longevity of our product including continued operation, updates and 
+
+maintenance will rely on the volunteers of the document assembly line project. 
+
+They currently own all of our repositories henceforth. Whether we are the 
+
+volunteers to continue this work or others take it over to continue to iterate,
+
+update and improve on our interviews. We hope that this product helps 
+
+practioners and clients alike across Massachusetts during this pandemic and 
+
+beyond. Thank you!
