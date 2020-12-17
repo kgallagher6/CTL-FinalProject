@@ -23,7 +23,7 @@ Presently, our product is three different interviews that fill out an individual
 The three interviews can be found<br>
   1.<a href="https://github.com/SuffolkLITLab/docassemble-AttorneyAuthorizationforRelease">Attorney Authoization for Release</a><br>
   2.<a href="https://github.com/SuffolkLITLab/docassemble-BHAReleaseAuthorization">Boston Housing Authority Release</a><br>
-  3.<a href="https://github.com/SuffolkLitLab/docassemble-XXXXXXXXXXXXXXXXXXXXXXXXXX">General Release</a><br>
+  3.<a href="https://github.com/SuffolkLITLab/docassemble-GeneralAuthorizationforRelease">General Release</a><br>
 
 <b>The Good</b><br>
 It works! You can view a quick demo <a href="https://github.com/kgallagher6/CTL-FinalProject/blob/main/Demo.mp4?raw=true">here</a>.
